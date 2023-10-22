@@ -40,10 +40,10 @@ For those curious about how AI generates images:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourGithubUsername/10kPurposeMonsters.git
+   git clone https://github.com/ryanrdetzel/PurpleMonsterProject
    ```
 2. Navigate to the dataset folder and start exploring the images.
-3. All the images are just under GB, so, not small bug not super large either
+3. All the images are just under 1 GB, so, not small but not super large either
 
 ## Disclaimer
 
